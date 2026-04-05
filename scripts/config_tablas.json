@@ -1,0 +1,17 @@
+{
+  "config": {
+    "encoding": "latin1",
+    "db_schema": "public",
+    "prefix_table": "siaf_",
+    "temp_dir": "./data_temp"
+  },
+  "tablas": [
+    "expediente",
+    "expediente_fase",
+    "meta",
+    "clasificador",
+    "proyecto",
+    "fuente_financiamiento",
+    "banco"
+  ]
+}
